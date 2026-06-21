@@ -1,5 +1,7 @@
 # Hi, I'm Anbuselvan 👋
 
+![](https://komarev.com/ghpvc/?username=anbuselvan77&style=for-the-badge)
+
 ### Python Developer | Web Developer
 
 🚀 Open to Freelance Opportunities & Collaborations
@@ -24,6 +26,12 @@ I focus on building clean, efficient, and scalable software solutions using Pyth
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Anbuselvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anbuselvan77&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anbuselvan77&layout=compact&theme=github_dark)
 
 ## Connect With Me
 
