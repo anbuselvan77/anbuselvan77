@@ -1,44 +1,104 @@
 # Hi, I'm Anbuselvan 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Web+Developer;Building+Real+World+Projects;Open+to+Freelance+Opportunities)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=anbuselvan77&style=for-the-badge)
+### Full Stack Developer
 
-### Python Developer | Web Developer
-
-🚀 Open to Freelance Opportunities & Collaborations
+Building Modern Web Applications, Business Websites & Custom Software Solutions
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I focus on building clean, efficient, and scalable software solutions using Python and modern web technologies.
+I build clean, scalable, and user-focused web applications using modern technologies.
 
-🔹 Problem-solving approach  
-🔹 Clean and maintainable code  
-🔹 User-focused development  
-🔹 Continuous learning mindset
+From business websites to custom web applications, I focus on delivering practical solutions with clean code and great user experience.
+
+* 🔹 Problem-solving mindset
+* 🔹 Clean and maintainable code
+* 🔹 User-focused development
+* 🔹 Continuous learning and improvement
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-## 📊 GitHub Stats
+## 🚀 Tech Stack
 
-![Anbuselvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anbuselvan77&show_icons=true&theme=github_dark)
+### Programming Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anbuselvan77&layout=compact&theme=github_dark)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 
-## Connect With Me
+### Frontend Development
 
-💼 LinkedIn: www.linkedin.com/in/anbuselvan77
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
 
-📧 Email: anbuselvan5710@gmail.com
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+
+### DevOps & Systems
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+
+---
+
+## 🛠️ Services I Provide
+
+🌐 Business Websites
+
+💻 Custom Web Applications
+
+⚙️ Backend Development & REST APIs
+
+🎨 Responsive Frontend Development
+
+🗄️ Database Design & Integration
+
+🚀 Deployment & Website Maintenance
+
+---
+
+## 📂 Featured Projects
+
+### 🏥 Neuromax Clinic Website
+
+Professional healthcare website developed with modern UI, responsive design, SEO optimization, and fast performance.
+
+🔗 https://neuromax.in
+
+### 💼 Hruthik Portfolio Website
+
+Designed and developed a modern portfolio website with responsive layouts, project showcase sections, and optimized performance.
+
+🔗 https://hruthik-portfolio-69.vercel.app
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anbuselvan-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anbuselvan77)
+
+[![Email](https://img.shields.io/badge/Email-anbuselvan5710%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anbuselvan5710@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-anbuselvan77-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/anbuselvan77)
+
+---
+
+### Building practical digital solutions with clean and scalable code.
